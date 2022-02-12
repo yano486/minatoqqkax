@@ -1,10 +1,28 @@
 # 目录
-### 1.如何下载Clash For Windows(即CFW)
-### 2.如何使用
-### 3.如何更新订阅
+1.如何下载Clash For Windows
+2.如何安装，使用
+3.如何更新订阅
+
+-   [1.1 我知道如何使用Github](#1.1 我知道如何使用Github)
+-   [1.1 我知道如何使用Github](#1.1 我知道如何使用Github)
+
+
+<details>
+<summary><b>目录</b></summary>
+
+```txt
+[1.1 我知道如何使用Github](#1.1 我知道如何使用Github)
+[1.2 我不知道什么是Github](#1.2 我不知道什么是Github)
+[2.1 安装Clash For Windows](#2.1 安装Clash For Windows)
+[2.2 配置Clash For Windows](#2.2 配置Clash For Windows)
+[2.3 如何使用](#2.3 如何使用)
+[3.1 如何更新订阅](#3.1 如何更新订阅)
+```
+
+</details>
 
 ## 注：此文章以Windows10系统以及Clash.for.Windows 0.19.8作配置环境
-## 1.1 我知道如何使用Github
+### 1.1 我知道如何使用Github
 如果对Github有了解或知道如何使用的话，请点击下方文字跳转到Github进行下载
 
 [Clash For Windows](https://github.com/Fndroid/clash_for_windows_pkg/releases)
@@ -23,12 +41,12 @@
 
 2.后缀`.7z`为绿色解压版，即解压即用，需要拥有解压缩应用支持(常见解压缩应用均已支持7z解压缩，所以此版本为解压即用版)
 
-## 1.2 我不知道什么是Github
+### 1.2 我不知道什么是Github
 如果你并不知道什么是Github，那么请点击下方的下载按钮，使用我们提供的Clash For Windows即可
 
 [Clash.for.Windows-0.19.8_CN.zip](https://www.onezz.me/Clash.for.Windows-0.19.8_CN.zip)
 
-2.1 安装Clash For Windows
+### 2.1 安装Clash For Windows
 
 + 使用的若是解压版，解压后，打开解压缩文件夹下的`Clash for Windows.exe`即可打开
 + ![avatar](https://s2.loli.net/2022/02/13/UQj8hFeP16RasnG.jpg)
@@ -39,7 +57,7 @@
 
 通常情况下只要没选错启动一次即可正常启动，若一次没正常启动请重新打开一次。
 
-2.2 配置Clash For Windows
+### 2.2 配置Clash For Windows
 
 <details>
 <summary><b>方法一(推荐)</b></summary>
@@ -58,7 +76,7 @@
 
 </details>
 
-2.3 如何使用
+### 2.3 如何使用
 
 打开应用后点击应用左侧 `代理` 选项，进入选择节点部分，点击切换后，应用界面上方会有四个选项，`全局` `规则` `直连` `脚本`
 全局指全局代理，规则指分流代理，同时此处也不需要进行更改，默认即可
@@ -71,5 +89,13 @@
 
 ![avatar](https://s2.loli.net/2022/02/13/i2NVvLs9ZqWQ7E8.jpg)
 
-在选择完节点后，再次回到打开应用的第一面 `常规` 部分，找到倒数第二项 `系统代理` 点击此选项，选项从红色变成绿色后即可连接上代理 
+在选择完节点后，再次回到打开应用的第一面 `常规` 部分，找到倒数第二项 `系统代理` 点击此选项，选项从红色变成绿色后即可连接上代理，此时只需要打开Google，Youtube检查是否正常访问即可使用
++ 注:请确保节点是正常状态，若无法正常访问更换节点即可
 ![avatar](https://s2.loli.net/2022/02/13/59MWhTSuiedyIDf.jpg)
+
+### 3.1 如何更新订阅
+
+应用左侧找到 `配置` 选项，点击进入此部分。
+左键点击第一个卡片的刷新按钮，等待转圈结束后完成更新
+同时可以在此处卡片中查看账号信息，如流量，账号到期等信息
+![avatar](https://s2.loli.net/2022/02/13/oIlUKwqAEVMjzr9.jpg)
